@@ -1,6 +1,10 @@
 suffermingdaily
 ===
+
+|  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|
 | |[10/2](#20181002)|[10/3]()|  |  |  |  |
+
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
 > - A 政治
