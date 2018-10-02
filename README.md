@@ -2,12 +2,8 @@ suffermingdaily
 ===
 * [10/2](#20181002)
 
-
-
-
-
 newspaper
-[test](https://www.facebook.com/suffermingl)
+[發行人](https://www.facebook.com/suffermingl)
 
 > 讀報大綱：
 > - A 政治
@@ -24,9 +20,9 @@ newspaper
 > - F 表特
 
 * * *
-`
+
 Daily model
-<h2 id="xxxxxxx">month-date</h2>
+`<h2 id="xxxxxxx">month-date</h2>`
 
 |a|b|c|
 |--|--|--|
@@ -47,8 +43,8 @@ Daily model
 
 |母標|子標|連結|
 |--|--|--|
-|A政治|--|--|
-|A1|國際新聞||
+|A政治|  |  |
+|A1|國際新聞|  |
 |  |  |[債務壓力！中企爆違約潮，金額將破歷史高](https://moptt.tw/p/Gossiping.M.1538438745.A.34D)|
 |  |  |[川普大勝！最後關頭搞定加拿大 美加墨將簽USMCA](https://moptt.tw/p/Gossiping.M.1538427149.A.1F4)|
 |A2|國內新聞|  |
