@@ -1,8 +1,5 @@
 [TOC]
 
-suffermingdaily
-===
-
 newspaper
 [test](https://www.facebook.com/suffermingl)
 
