@@ -2,9 +2,7 @@ suffermingdaily
 ===
 * [10/2](#20181002)
 
-newspaper
-[發行人](https://www.facebook.com/sufferming)
-[編輯](https://www.facebook.com/lich268)
+newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
 > - A 政治
 >   * A1: 國際新聞
@@ -73,3 +71,5 @@ Daily model
 |  |  |[小倉優香](https://moptt.tw/p/Beauty.M.1538412990.A.A5C)|
 
 * * *
+
+<h2 id="20181003">10/3</h2>
