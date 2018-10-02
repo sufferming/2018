@@ -5,16 +5,16 @@ suffermingdaily
 newspaper
 [test](https://www.facebook.com/suffermingl)
 
-讀報大綱：
-- A 政治
-- B 財金
-- C 科學
-  * C1: 物理
-  * C2: 機械
-  * C3: 資工
-  * C4: 生醫
-- D 態度
-- E 表特
+> 讀報大綱：
+> - A 政治
+> - B 財金
+> - C 科學
+>  * C1: 物理
+>  * C2: 機械
+>  * C3: 資工
+>  * C4: 生醫
+> - D 態度
+> - E 表特
 
 
 <h2 id="20181002">10/2</h2>
