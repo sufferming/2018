@@ -31,7 +31,7 @@ newspaper
 |a|b|c|
 |--|--|--|
 |A政治|--|--|
-|xx|國際新聞|xx|
+||國際新聞||
 |xx|xx|[債務壓力！中企爆違約潮，金額將破歷史高](https://moptt.tw/p/Gossiping.M.1538438745.A.34D)|
 |xx|xx|[川普大勝！最後關頭搞定加拿大 美加墨將簽USMCA](https://moptt.tw/p/Gossiping.M.1538427149.A.1F4)|
 |xx|國內新聞|xx|
