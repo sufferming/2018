@@ -3,5 +3,5 @@ newspaper
 [TOC]
 
 ## 2018/10/2
-[TEST1](https://www.uni-muenchen.de/index.html)
+<a href = "https://www.uni-muenchen.de/index.html" target="_blank">TEST1</a>
 [TEST]
