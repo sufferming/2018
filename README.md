@@ -31,10 +31,11 @@ newspaper
 |a|b|c|
 |--|--|--|
 |A政治|--|--|
-||國際新聞||
-|xx|xx|[債務壓力！中企爆違約潮，金額將破歷史高](https://moptt.tw/p/Gossiping.M.1538438745.A.34D)|
-|xx|xx|[川普大勝！最後關頭搞定加拿大 美加墨將簽USMCA](https://moptt.tw/p/Gossiping.M.1538427149.A.1F4)|
-|xx|國內新聞|xx|
-|C科學|xx|xx|
-|xx|C1物理|xx|
-|xx|xx|[天文學家警告:粒子加速器實驗失敗 可致地](https://moptt.tw/p/Gossiping.M.1538406299.A.824)|
+|A1|國際新聞||
+|  |  |[債務壓力！中企爆違約潮，金額將破歷史高](https://moptt.tw/p/Gossiping.M.1538438745.A.34D)|
+|  |  |[川普大勝！最後關頭搞定加拿大 美加墨將簽USMCA](https://moptt.tw/p/Gossiping.M.1538427149.A.1F4)|
+|A2|國內新聞|xx|
+|C科學|  |  |
+|C1|物理|  |
+|  |  |[天文學家警告:粒子加速器實驗失敗 可致地](https://moptt.tw/p/Gossiping.M.1538406299.A.824)|
+|C4|生醫||
