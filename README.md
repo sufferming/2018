@@ -3,7 +3,7 @@ suffermingdaily
 * [10/2](#20181002)
 
 newspaper
-[發行人](https://www.facebook.com/suffermingl)
+[發行人](https://www.facebook.com/sufferming)
 
 > 讀報大綱：
 > - A 政治
