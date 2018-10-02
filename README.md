@@ -4,7 +4,7 @@ suffermingdaily
 
 newspaper
 [發行人](https://www.facebook.com/sufferming)
-
+[編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
 > - A 政治
 >   * A1: 國際新聞
@@ -23,7 +23,7 @@ newspaper
 
 Daily model
 `<h2 id="xxxxxxx">month-date</h2>`
-
+`
 |版|次版|連結|
 |--|--|--|
 |A政治|  |  |
@@ -38,6 +38,7 @@ Daily model
 |D教育|  |  |
 |E態度|  |  |
 |F表特|  |  |
+`
 
 * * *
 
