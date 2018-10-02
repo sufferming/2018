@@ -2,6 +2,10 @@ suffermingdaily
 ===
 * [10/2](#20181002)
 
+
+
+
+
 newspaper
 [test](https://www.facebook.com/suffermingl)
 
@@ -23,6 +27,7 @@ newspaper
 `
 Daily model
 <h2 id="xxxxxxx">month-date</h2>
+
 |a|b|c|
 |--|--|--|
 |A政治|  |  |
@@ -37,10 +42,10 @@ Daily model
 |D教育|  |  |
 |E態度|  |  |
 |F表特|  |  |
-`
+
 <h2 id="20181002">10/2</h2>
 
-|a|b|c|
+|母標|子標|連結|
 |--|--|--|
 |A政治|--|--|
 |A1|國際新聞||
@@ -55,17 +60,17 @@ Daily model
 |  |  |[卸任董事長，對馬斯克和特斯拉都是最好的結果！](https://www.inside.com.tw/2018/10/01/resign-as-tesla-chairman-in-settlement-with-sec-is-the-best-result-to-elon-musk-and-tesla)|
 |  |  |[大麻、誹謗、私有化：特斯拉馬斯克被懲款的背後](https://www.bbc.com/zhongwen/trad/business-45696848)|
 |C科學|  |  |
-|C1|物理|  |
+|  |C1物理|  |
 |  |  |[天文學家警告:粒子加速器實驗失敗 可致地](https://moptt.tw/p/Gossiping.M.1538406299.A.824)|
-|C4|生醫|  |
+|  |C4生醫|  |
 |  |  |[2018諾貝爾生理醫學獎得主](https://moptt.tw/p/Gossiping.M.1538420425.A.E3F)|
 |  |  |[清大證實 台灣食鹽也含「塑膠微粒」](https://moptt.tw/p/Gossiping.M.1538405057.A.75A)|
 |  |  |  |
 |D教育|  |  |
 |  |  | [努力就能成功？ 台大教授：台灣教育最大錯誤](https://moptt.tw/p/Gossiping.M.1538401017.A.9AD)|
 |   |   |[邁向雙語國家>>中小學英語擬全英語授課 中高年級增時數](https://moptt.tw/p/Gossiping.M.1538395404.A.8F1)|
-|E |  |  |
-|表特F|  |  |
+|E態度|  |  |
+|F表特|  |  |
 |  |  |[小倉優香](https://moptt.tw/p/Beauty.M.1538412990.A.A5C)|
 
 * * *
