@@ -65,7 +65,6 @@ Daily model
 |  |C4生醫|  |
 |  |  |[2018諾貝爾生理醫學獎得主](https://moptt.tw/p/Gossiping.M.1538420425.A.E3F)|
 |  |  |[清大證實 台灣食鹽也含「塑膠微粒」](https://moptt.tw/p/Gossiping.M.1538405057.A.75A)|
-|  |  |  |
 |D教育|  |  |
 |  |  | [努力就能成功？ 台大教授：台灣教育最大錯誤](https://moptt.tw/p/Gossiping.M.1538401017.A.9AD)|
 |   |   |[邁向雙語國家>>中小學英語擬全英語授課 中高年級增時數](https://moptt.tw/p/Gossiping.M.1538395404.A.8F1)|
