@@ -37,7 +37,7 @@ Daily model
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
-|E態度|  |  |
+|E商周|  |  |
 |F表特|  |  |
 `
 
@@ -68,10 +68,39 @@ Daily model
 |D教育|  |  |
 |  |  | [努力就能成功？ 台大教授：台灣教育最大錯誤](https://moptt.tw/p/Gossiping.M.1538401017.A.9AD)|
 |   |   |[邁向雙語國家>>中小學英語擬全英語授課 中高年級增時數](https://moptt.tw/p/Gossiping.M.1538395404.A.8F1)|
-|E態度|  |  |
+|E商周|  |  |
 |F表特|  |  |
 |  |  |[小倉優香](https://moptt.tw/p/Beauty.M.1538412990.A.A5C)|
 
 * * *
 
 <h2 id="20181003">10/3</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |  |[中國外長：新疆2千萬人都贊成政府做法](https://moptt.tw/p/Gossiping.M.1538495224.A.E8A)|
+|  |  |  |[中國最大惡夢2020環太平洋演習在南海舉行](https://moptt.tw/p/Gossiping.M.1538475796.A.749)|
+|A2|國內新聞|  |
+|  |  |  |[高雄一旦翻盤 黃暐瀚：DPP鐵三角直接去兩角！](https://moptt.tw/p/Gossiping.M.1538497774.A.D63)|
+|  |  |  |[資料靠柯P提供又說他騙子 哲學教授：邏輯玄妙](https://moptt.tw/p/Gossiping.M.1538491596.A.069)|
+|  |  |  |[談不動產政策被吐槽 姚文智嗆民眾「現在是我在講話」](https://moptt.tw/p/Gossiping.M.1538471169.A.AFD)|
+|  |  |  |[雄中學生議員選舉公報](https://moptt.tw/p/joke.M.1538503151.A.F67)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |  |  |[網軍分析系統上線](https://moptt.tw/p/Gossiping.M.1538459774.A.1EB)|
+|  |  |[一款手機鍵盤App賺遍全世界，這家新創用AI、UX兩招讓溝通變簡單](https://www.bnext.com.tw/article/50506/kika-tech-and-keyboard?utm_source=line&utm_medium=message-3-1&utm_campaign=50506&utm_content=201810021817)|
+|  |C4生醫健康|  |
+|  |  |  |[石斑魚魚肉之間不明黑色圓點？](https://moptt.tw/p/Gossiping.M.1538501276.A.18E)|
+|  |  |  |[南台第一神刀開腦5千顆 何治軍成功為90歲星雲取血塊震撼醫界](https://moptt.tw/p/Gossiping.M.1538479751.A.D4C)|
+|D教育|  |  |
+|E商周|  |  |
+|  |  |[客源都是朋友介紹，接案多到要轉包...一個8年級生開搬家公司，靠3招做到月收入25萬！](https://www.businessweekly.com.tw/article.aspx?id=23758&type=Blog&utm_source=line&utm_medium=social&utm_content=bw&utm_campaign=content)|
+|  |  |[連市值300億的公司高階主管都採約聘制，你還在追求穩定就業？不想被淘汰，「這件事」比優秀還重要](https://www.businessweekly.com.tw/article.aspx?id=23897&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content)|
+|F表特|  |  |
+|  |  |[引退的時代眼淚(圖多)-續1](https://moptt.tw/p/Beauty.M.1538490475.A.322)|
+|  |  |[Daria Mikolajczak 東歐模特兒 178cm](https://moptt.tw/p/Beauty.M.1538490343.A.64D)|
