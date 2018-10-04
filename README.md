@@ -23,7 +23,6 @@ newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://
 * * *
 
 Daily model
-`<h2 id="xxxxxxx">month-date</h2>`
 `
 |版|次版|連結|
 |--|--|--|
@@ -107,3 +106,24 @@ Daily model
 
 * * *
 <h2 id="20181004">10/4</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[留美高官子女 傳中共密令召回](https://moptt.tw/p/Gossiping.M.1538577216.A.46D)|
+|  |  |[憋一口氣潛107公尺 自由潛水女王破世界紀錄](https://moptt.tw/p/Gossiping.M.1538571822.A.21C)|
+|  |  |[造神無極限!中國益智節目 題目全是習近?](https://moptt.tw/p/Gossiping.M.1538563713.A.048)|
+|A2|國內新聞|  |
+|  |  |[反擊葛特曼 柯P：葉克膜很貴 活摘器官不需用葉克膜](https://moptt.tw/p/Gossiping.M.1538578249.A.85B)|
+|  |  |[交大整合電子、電資、電機系 組全台最大電機系](https://moptt.tw/p/Gossiping.M.1538567786.A.A81)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  | |[科學家：地球恐於 2019 年進入小冰河期](https://moptt.tw/p/Gossiping.M.1538574008.A.52F)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E商周|  |  |
+|F表特|  |  |
