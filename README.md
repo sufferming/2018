@@ -36,7 +36,7 @@ Daily model
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
-|E商業|  |  |
+|E態度|  |  |
 |F表特|  |  |
 `
 
@@ -197,15 +197,15 @@ Daily model
 |  |  |[停車插隊拒開車門 女駕駛遭警破窗帶回](https://moptt.tw/p/Gossiping.M.1538841925.A.A96)|
 |B企業|  |  |
 |  |  |[聯想一度暴跌22% 中國間諜晶片產業效應擴大](https://moptt.tw/p/Gossiping.M.1538797858.A.61A)|
+|  |  |[獲利探新低、再傳史上最大裁員計畫 華碩到底怎麼了？](https://www.inside.com.tw/2018/10/03/what-cause-asus-huge-layoffs)|
+|  |  |[產能全面爆發！特斯拉 Q3 成績單公布 Model 3 九月銷量破世界紀錄](https://www.inside.com.tw/2018/10/04/tesla-q3-2018)|
 |C科學|  |  |
 |  |C1物理|  |
 |  |C2工程(硬)|  |
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
-|E商業|  |  |
-|  |  |[獲利探新低、再傳史上最大裁員計畫 華碩到底怎麼了？](https://www.inside.com.tw/2018/10/03/what-cause-asus-huge-layoffs)|
-|  |  |[產能全面爆發！特斯拉 Q3 成績單公布 Model 3 九月銷量破世界紀錄](https://www.inside.com.tw/2018/10/04/tesla-q3-2018)|
+|E態度|  |  |
 |F表特|  |  |
 |  |  |[黃姵嘉](https://moptt.tw/p/Beauty.M.1538844994.A.F54)|
 |  |  |[岸明日香](https://moptt.tw/p/Beauty.M.1538837479.A.242)|
