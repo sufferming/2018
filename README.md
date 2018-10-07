@@ -3,7 +3,7 @@ suffermingdaily
 
 |**Sun.**|**Mon.**|**Tue.**|**Wed.**|**Thu.**|**Fri.**|**Sat.**|
 |--|--|--|--|--|--|--|
-| |[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|  |  |
+| |[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)| [10/7](#20181007) |
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
@@ -36,7 +36,7 @@ Daily model
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
-|E商周|  |  |
+|E商業|  |  |
 |F表特|  |  |
 `
 
@@ -67,7 +67,7 @@ Daily model
 |D教育|  |  |
 |  |  | [努力就能成功？ 台大教授：台灣教育最大錯誤](https://moptt.tw/p/Gossiping.M.1538401017.A.9AD)|
 |   |   |[邁向雙語國家>>中小學英語擬全英語授課 中高年級增時數](https://moptt.tw/p/Gossiping.M.1538395404.A.8F1)|
-|E商周|  |  |
+|E商業|  |  |
 |F表特|  |  |
 |  |  |[小倉優香](https://moptt.tw/p/Beauty.M.1538412990.A.A5C)|
 
@@ -97,7 +97,7 @@ Daily model
 |  |  |[石斑魚魚肉之間不明黑色圓點？](https://moptt.tw/p/Gossiping.M.1538501276.A.18E)|
 |  |  |[南台第一神刀開腦5千顆 何治軍成功為90歲星雲取血塊震撼醫界](https://moptt.tw/p/Gossiping.M.1538479751.A.D4C)|
 |D教育|  |  |
-|E商周|  |  |
+|E商業|  |  |
 |  |  |[一個8年級生開搬家公司，靠3招做到月收入25萬！](https://www.businessweekly.com.tw/article.aspx?id=23758&type=Blog&utm_source=line&utm_medium=social&utm_content=bw&utm_campaign=content)|
 |  |  |[連市值300億的公司高階主管都採約聘制，你還在追求穩定就業？](https://www.businessweekly.com.tw/article.aspx?id=23897&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content)|
 |F表特|  |  |
@@ -125,7 +125,7 @@ Daily model
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
-|E商周|  |  |
+|E商業|  |  |
 |F表特|  |  |
 
 * * *
@@ -147,5 +147,69 @@ Daily model
 |  |C4生醫健康|  |
 |  |  |[2成高中生已有性行為經驗 青少女懷孕 併發症風險 增2倍以上](https://moptt.tw/p/Gossiping.M.1538627491.A.7D)|
 |D教育|  |  |
-|E商周|  |  |
+|E商業|  |  |
 |F表特|  |  |
+
+* * *
+
+<h2 id="20181006">10/6</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[等於8棟台北101！日本建商要蓋4千公尺](https://moptt.tw/p/Gossiping.M.1538763821.A.52B)|
+|  |  |[東京奧運經費龐大 日政府已付出原估的5倍](https://moptt.tw/p/Gossiping.M.1538755142.A.50C)|
+|  |  |[「習帝」要共產 強國富豪人人自危](https://moptt.tw/p/Gossiping.M.1538751895.A.99C)|
+|  |  |[美批中國人權 中回敬：「奉勸美方照鏡子」](https://moptt.tw/p/Gossiping.M.1538743836.A.C41)|
+|  |  |[日本宣示「50年奪30諾貝爾獎」曾被中國笑 現在笑不出來了](https://moptt.tw/p/Gossiping.M.1538741855.A.B3F)|
+|  |  |[美國出重拳 全面揭中共陰謀 貿易戰將升級](https://moptt.tw/p/Gossiping.M.1538716566.A.1DA)|
+|  |  |[諾貝爾今頒發和平獎 提名多達331史上第二高](https://moptt.tw/p/Gossiping.M.1538707858.A.FA6)|
+|A2|國內新聞|  |
+|  |  |[林昆鋒:論叛將高嘉瑜還算資淺的啦](https://moptt.tw/p/HatePolitics.M.1538751474.A.420)|
+|  |  |[韓國瑜菜蟲案簽結 網友笑問段宜康：曲棍球呢？](https://moptt.tw/p/Gossiping.M.1538736418.A.E92)|
+|B企業|  |  |
+|  |  |[美超微 伺服器主機板中被發現有hack晶片](https://moptt.tw/p/Gossiping.M.1538720636.A.34D)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[南極上空測到神秘粒子 或打破物理學規則](https://moptt.tw/p/Gossiping.M.1538708923.A.1C8)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[大學合併，就能增加「跨領域競爭力」嗎？──台灣高教邏輯若不改，資源再多也不會變成 MIT](https://crossing.cw.com.tw/blogTopic.action?id=576&nid=10676&utm_source=Line&utm_medium=Social&utm_campaign=Daily)|
+|E商業|  |  |
+|  |  |[高薪早已是基本，福利還要夠貼心：矽谷科技公司，靠什麼留住全球菁英的心？](https://crossing.cw.com.tw/blogTopic.action?id=1095&nid=10630&utm_source=Line&utm_medium=Social&utm_campaign=Daily)|
+|F表特|  |  |
+
+* * *
+
+<h2 id="20181007">10/7</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[台媒曝川普將對江澤民動手 江家5000億美元或被凍結](https://moptt.tw/p/Gossiping.M.1538870737.A.D58)|
+|  |  |[參議院通過Brett Kavanaugh的任命](https://moptt.tw/p/Gossiping.M.1538855899.A.180)|
+|  |  |[記者問題太蠢 本庶教授直播發飆：你還在念幼稚園？](https://moptt.tw/p/Gossiping.M.1538824670.A.C00)|
+|A2|國內新聞|  |
+|  |  |[停車插隊拒開車門 女駕駛遭警破窗帶回](https://moptt.tw/p/Gossiping.M.1538841925.A.A96)|
+|B企業|  |  |
+|  |  |[聯想一度暴跌22% 中國間諜晶片產業效應擴大](https://moptt.tw/p/Gossiping.M.1538797858.A.61A)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E商業|  |  |
+|  |  |[獲利探新低、再傳史上最大裁員計畫 華碩到底怎麼了？](https://www.inside.com.tw/2018/10/03/what-cause-asus-huge-layoffs)|
+|  |  |[產能全面爆發！特斯拉 Q3 成績單公布 Model 3 九月銷量破世界紀錄](https://www.inside.com.tw/2018/10/04/tesla-q3-2018)|
+|F表特|  |  |
+|  |  |[黃姵嘉](https://moptt.tw/p/Beauty.M.1538844994.A.F54)|
+|  |  |[岸明日香](https://moptt.tw/p/Beauty.M.1538837479.A.242)|
+
+* * *
+
+<h2 id="20181008">10/8</h2>
