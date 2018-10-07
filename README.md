@@ -61,7 +61,7 @@ Daily model
 |  |  |[大麻、誹謗、私有化：特斯拉馬斯克被懲款的背後](https://www.bbc.com/zhongwen/trad/business-45696848)|
 |C科學|  |  |
 |  |C1物理|  |
-|  |  |[天文學家警告:粒子加速器實驗失敗 可致地](https://moptt.tw/p/Gossiping.M.1538406299.A.824)|
+|  |  |[天文學家警告:粒子加速器實驗失敗 可致地球變成超緻密天體](https://moptt.tw/p/Gossiping.M.1538406299.A.824)|
 |  |C4生醫|  |
 |  |  |[2018諾貝爾生理醫學獎得主](https://moptt.tw/p/Gossiping.M.1538420425.A.E3F)|
 |  |  |[清大證實 台灣食鹽也含「塑膠微粒」](https://moptt.tw/p/Gossiping.M.1538405057.A.75A)|
