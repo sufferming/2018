@@ -4,7 +4,7 @@ suffermingdaily
 |**Sun.**|**Mon.**|**Tue.**|**Wed.**|**Thu.**|**Fri.**|**Sat.**|
 |--|--|--|--|--|--|--|
 | |[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)| [10/7](#20181007)|<br>
-|[10/8](#20181008)|
+|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
@@ -214,3 +214,32 @@ Daily model
 * * *
 
 <h2 id="20181008">10/8</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[俄國「浮動核電廠」裝完燃料 力拚今年熱測試](https://moptt.tw/p/Gossiping.M.1538925178.A.3E9)|
+|  |  |[北京秘囚國際刑警主席孟宏偉計畫敗露 慌稱立案調查](https://moptt.tw/p/Gossiping.M.1538951533.A.2E6)|
+|A2|國內新聞|  |
+|  |  |[葛特曼明早將離開台灣！ 傳8日清晨退房搭早班機飛往倫敦](https://moptt.tw/p/Gossiping.M.1538929590.A.299)|
+|  |  |[爺嬤搶吃「選舉飯」 網譏：像餵錦鯉](https://moptt.tw/p/Gossiping.M.1538919651.A.1F1)|
+|  |  |[檢舉魔人被暴打！ 鄰居群起圍毆抓耙子](https://moptt.tw/p/Gossiping.M.1538960015.A.5D7)|
+|  |  |[86萬戶空屋讓房價跌？ 徐永仁：等跌價永遠買不到房](https://moptt.tw/p/Gossiping.M.1538917287.A.A4B)|
+|  |  |[從「夾娃娃」機風潮看見台灣經濟的惡性循環](https://www.bnext.com.tw/article/50814/claw-machine-economic-rent?utm_source=line&utm_medium=message-3-1&utm_campaign=50814&utm_content=201810041817)|
+|B企業|  |  |
+|  |  |[百萬YouTuber阿滴英文專訪：認識「創業家」阿滴](https://www.bnext.com.tw/article/50692/youtuber-rd-english)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[離地177億公里!航海家2號飛出太陽系：花40年成功「逃家」](https://moptt.tw/p/Gossiping.M.1538918912.A.495)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+|  |  |[[正妹] 絲襪](https://moptt.tw/p/Beauty.M.1538920728.A.72E)|
+
+* * *
+
+<h2 id="20181009">10/9</h2>
