@@ -243,3 +243,36 @@ Daily model
 * * *
 
 <h2 id="20181009">10/9</h2>
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[希臘向德求償10兆戰爭賠款 不給就告上國際法院](https://moptt.tw/p/Gossiping.M.1539044318.A.71D)|
+|  |  |[川普近期政績斐然 民調滿意度創新高](https://moptt.tw/p/Gossiping.M.1538973161.A.0B1)|
+|  |  |[俄男感冒鼻塞「好想呼吸」拿刀從頭插入找開口](https://moptt.tw/p/Gossiping.M.1538973731.A.8A5)|
+|  |  |[【降準沒效】陸股收盤大跌3.7% 人民幣摜破6.9](https://moptt.tw/p/Gossiping.M.1538987373.A.A8A)|
+|  |  |[外界認應撤銷諾貝爾和平獎 翁山蘇姬：不在乎獎項](https://moptt.tw/p/Gossiping.M.1538987891.A.58B)|
+|  |  |[義大利少女指控未成年時被C羅睡了！](https://moptt.tw/p/Gossiping.M.1539014951.A.226)|
+|  |  |[1尾5500萬！台灣人在日本標下「傳說鯉](https://moptt.tw/p/Gossiping.M.1539001963.A.2EA)|
+|  |  |[56億全捐了！周潤發「月花3千2」 諾基亞手機用17年](https://moptt.tw/p/Gossiping.M.1538988969.A.B67)|
+|A2|國內新聞|  |
+|  |  |[葛特曼走了！丁守中突掉13%？姚文智辦公室：棄丁保柯開始操作](https://moptt.tw/p/Gossiping.M.1539018433.A.65E)|
+|  |  |[#MeToo變調 美國謊報性侵率達2％至10％](https://moptt.tw/p/Gossiping.M.1538988350.A.D1D)|
+|  |  |[他爆柯文哲「月花千萬養網軍」 網：我的500咧](https://moptt.tw/p/Gossiping.M.1539007877.A.265)|
+|  |  |[柯Ｐ政策白皮書今上架 首刷萬本被索取一空](https://moptt.tw/p/Gossiping.M.1539005480.A.6E1)|
+|B企業|  |  |
+|  |  |[宏達電9月營收15年新低 早盤股價創上市低點](https://moptt.tw/p/Gossiping.M.1538966280.A.BD9)|
+|  |  |[實體巨人的轉型困境：才與阿里巴巴風光展開「新零售合作」，星巴克卻要裁高層、關門市？](https://www.businessweekly.com.tw/article.aspx?id=36508&type=Indep&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[退休是「年輕人」的事！財務顧問打破3迷思：只顧著結婚買房，小心更大的地雷在後頭](https://www.businessweekly.com.tw/article.aspx?id=23937&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content)|
+|F表特|  |  |
+|  |  |[佐野ひなこ、馬場ふみか、久松郁実](https://moptt.tw/p/Beauty.M.1539023605.A.BCC)|
+
+* * *
+<h2 id="20181010">10/10</h2>
