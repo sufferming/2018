@@ -4,7 +4,7 @@ suffermingdaily
 |**Sun.**|**Mon.**|**Tue.**|**Wed.**|**Thu.**|**Fri.**|**Sat.**|
 |--|--|--|--|--|--|--|
 | |[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)| [10/7](#20181007)|<br>
-|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|
+|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
@@ -278,3 +278,54 @@ Daily model
 * * *
 
 <h2 id="20181010">10/10</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[美18歲少年駕機環球創紀錄 闖我領空遭F-16戰機攔截](https://moptt.tw/p/Gossiping.M.1539128044.A.FE6)|
+|  |  |[亞馬遜河有「世界最笨魚」 漁民打暈直接抬走](https://moptt.tw/p/Gossiping.M.1539100263.A.07D)|
+|  |  |[美國退出聯合國後會怎樣？](https://moptt.tw/p/Gossiping.M.1539096899.A.00D)|
+|  |  |[2030將達「升溫大限」 地球恐只剩12年](https://moptt.tw/p/Gossiping.M.1539082623.A.F17)|
+|  |  |[最後警報：氣候變化12年後可能失控](https://moptt.tw/p/Gossiping.M.1539075535.A.434)|
+|  |  |[強國抄很大！韓媒曝中國抄襲南韓34個節目](https://moptt.tw/p/Gossiping.M.1539067098.A.CFF)|
+|A2|國內新聞|  |
+|  |  |[洪慈庸 有個可愛的小寶貝即將來到](https://moptt.tw/p/Gossiping.M.1539100879.A.D07)|
+|  |  |[馬英九嘲諷台獨與反核：能源不獨立 「你獨立個鬼」](https://moptt.tw/p/Gossiping.M.1539072867.A.0B4)|
+|  |  |[北市最貴公園啟用 柯文哲宣布未來4年再闢43座公園](https://moptt.tw/p/Gossiping.M.1539050601.A.C4E)|
+|  |  |[拚了！丁守中推捷運月票只要888 電動公車全面上路](https://moptt.tw/p/Gossiping.M.1539137070.A.287)|
+|B企業|  |  |
+|  |  |[Google Pixel3 台灣賣34100元誰會買?[(https://moptt.tw/p/Gossiping.M.1539101370.A.96F)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+|  |  |[Jennifer Ni(ig: jen815)](https://moptt.tw/p/Beauty.M.1539124823.A.1EB)|
+
+* * *
+
+<h2 id="20181010">10/11</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[中共特務官員在比利時遭逮 押美受審](https://moptt.tw/p/Gossiping.M.1539206383.A.AD0)|
+|  |  |[中國要挖香港五千億港幣去填海建公屋](https://moptt.tw/p/Gossiping.M.1539244618.A.894)|
+|  |  |[貿易戰北京最後一張牌 有專家猜是美債](https://moptt.tw/p/Gossiping.M.1539238178.A.998)|
+|A2|國內新聞|  |
+|  |  |[台股跌破萬點了!](https://moptt.tw/p/Gossiping.M.1539221702.A.EC5)|
+|B企業|  |  |
+|  |  |[貿易戰火延燒！科技5巨頭FAANG市值蒸發5.3兆元，亞馬遜最慘](https://www.bnext.com.tw/article/50887/shares-of-apple-facebook-google-netflix-and-amazon-lost-172-billion-market-value?utm_source=line&utm_medium=message-3-1&utm_campaign=50887&utm_content=201810111217)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
