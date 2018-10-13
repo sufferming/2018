@@ -296,7 +296,7 @@ Daily model
 |  |  |[北市最貴公園啟用 柯文哲宣布未來4年再闢43座公園](https://moptt.tw/p/Gossiping.M.1539050601.A.C4E)|
 |  |  |[拚了！丁守中推捷運月票只要888 電動公車全面上路](https://moptt.tw/p/Gossiping.M.1539137070.A.287)|
 |B企業|  |  |
-|  |  |[Google Pixel3 台灣賣34100元誰會買?[(https://moptt.tw/p/Gossiping.M.1539101370.A.96F)|
+|  |  |[Google Pixel3 台灣賣34100元誰會買?](https://moptt.tw/p/Gossiping.M.1539101370.A.96F)|
 |C科學|  |  |
 |  |C1物理|  |
 |  |C2工程(硬)|  |
@@ -344,7 +344,7 @@ Daily model
 |  |  |[中國擬研發「人造月亮」負責反射陽光回地球 盼後年升空](https://moptt.tw/p/Gossiping.M.1539253967.A.C02)|
 |  |  |[中國千股跌停 股民求救美大使館「放過A股吧」](https://www.ptt.cc/bbs/Gossiping/M.1539310084.A.68A.html)|
 |A2|國內新聞|  |
-|  |  |[鼎泰豐掀2年來最大規模漲價潮 漲幅最高37%][(https://tw.appledaily.com/new/realtime/20181012/1446252/)|
+|  |  |[鼎泰豐掀2年來最大規模漲價潮 漲幅最高37%](https://tw.appledaily.com/new/realtime/20181012/1446252/)|
 |B企業|  |  |
 |  |  |[美股盤後─道瓊再重創545點 二天大跌逾1300點](https://news.cnyes.com/news/id/4216742?utm_campaign=4216742&utm_medium=android&utm_source=App)|
 |C科學|  |  |
