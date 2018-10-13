@@ -331,3 +331,58 @@ Daily model
 |F表特|  |  |
 
 * * *
+<h2 id="20181012">10/12</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[中共加強打壓穆斯林 迫吃豬肉講普通話](https://moptt.tw/p/Gossiping.M.1539272126.A.538)|
+|  |  |[BBC電話迅獲中國肝臟 黃潔夫「我不想回答」](https://moptt.tw/p/Gossiping.M.1539263339.A.CE8)|
+|  |  |[惠譽：台灣人均所得 低於同級國家](https://moptt.tw/p/Gossiping.M.1539257500.A.A0A)|
+|  |  |[中國擬研發「人造月亮」負責反射陽光回地球 盼後年升空](https://moptt.tw/p/Gossiping.M.1539253967.A.C02)|
+|  |  |[中國千股跌停 股民求救美大使館「放過A股吧」](https://www.ptt.cc/bbs/Gossiping/M.1539310084.A.68A.html)|
+|A2|國內新聞|  |
+|  |  |[鼎泰豐掀2年來最大規模漲價潮 漲幅最高37%][(https://tw.appledaily.com/new/realtime/20181012/1446252/)|
+|B企業|  |  |
+|  |  |[美股盤後─道瓊再重創545點 二天大跌逾1300點](https://news.cnyes.com/news/id/4216742?utm_campaign=4216742&utm_medium=android&utm_source=App)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[肉食助長全球暖化 科學家籲肉類攝取減9成](https://moptt.tw/p/Gossiping.M.1539261529.A.B08)|
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+
+* * *
+
+<h2 id="20181013">10/13</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[中國自由派智庫天則所 傳將遭全面封殺](https://moptt.tw/p/Gossiping.M.1539333976.A.688)|
+|  |  |[人民日報：美賣航空母艦給陸可平衡貿易逆差](https://moptt.tw/p/Gossiping.M.1539333607.A.880)|
+|A2|國內新聞|  |
+|  |  |[大巨蛋恐易主？ 遠雄傳350億賣60%股權](https://moptt.tw/p/Gossiping.M.1539331594.A.DEB)|
+|  |  |[最悍老爸！兒子作業太多 霸氣「把課本撕爛」](https://moptt.tw/p/Gossiping.M.1539329698.A.B60)|
+|  |  |[破天荒！承德艦軍機外洩 女檢親自登艦搜查](https://moptt.tw/p/Gossiping.M.1539327492.A.BE2)|
+|  |  |[台大將綠營一軍 不放教授出任中經院新院長](https://moptt.tw/p/Gossiping.M.1539321663.A.F94)|
+|  |  |[中火4座燃媒機組 賴清德：2023年天然氣接替後退場](https://moptt.tw/p/Gossiping.M.1539313650.A.4E5)|
+|B企業|  |  |
+|  |  |[彭博社出糗？「間諜晶片」實為訊號耦合器](https://moptt.tw/p/Gossiping.M.1539306699.A.C5C)|
+|  |  |[台面板業首波西進高階主管幾乎已全數退場 大陸挖角動作少很多 搶人才大戰近尾聲](https://moptt.tw/p/Gossiping.M.1539296668.A.4E5)|
+|  |  |[蘋果史上最大人數收購案誕生：6 億美元交易，300 名 Dialog 工程師加入](https://www.inside.com.tw/2018/10/12/apple-dialog-chipmaker-power-management-acquihire-acquisition)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[化身超級瑪利歐！波士頓動力人形機器人 Atlas 學會跑酷新技能](https://www.inside.com.tw/2018/10/12/boston-dynamics-robot-now-tackles-obstacles)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+|  |  |[小倉優香](https://moptt.tw/p/Beauty.M.1539392696.A.6B6)|
