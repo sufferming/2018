@@ -441,7 +441,7 @@ Daily model
 |D教育|  |  |
 |E態度|  |  |
 |  |  |[你是「寧缺勿濫」還是「眼高手低」？擇偶的心理陷阱](https://www.businesstoday.com.tw/article/category/80407/post/201809040031/你是「寧缺勿濫」還是「眼高手低」？擇偶的心理陷阱)|
-|  |  |[大小事都要管，難怪天天忙不完！一個時間管理矩陣，釐清你真正該做的事](https://www.managertoday.com.tw/articles/view/56609?utm_source=line&utm_medium=message-2-2&utm_campaign=56609&utm_content=18%2F9%2F23-10%3A05]|
+|  |  |[大小事都要管，難怪天天忙不完！一個時間管理矩陣，釐清你真正該做的事](https://www.managertoday.com.tw/articles/view/56609?utm_source=line&utm_medium=message-2-2&utm_campaign=56609&utm_content=18%2F9%2F23-10%3A05)|
 |F表特|  |  |
 |  |  |[都丸紗也華](https://moptt.tw/p/Beauty.M.1539556808.A.D83)|
 
