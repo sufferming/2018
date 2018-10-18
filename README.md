@@ -469,10 +469,65 @@ Daily model
 |D教育|  |  |
 |E態度|  |  |
 |F表特|  |  |
-|  |  |[韓妹]https://moptt.tw/p/Beauty.M.1539610295.A.664)|
+|  |  |[韓妹](https://moptt.tw/p/Beauty.M.1539610295.A.664)|
 
 * * *
 
 <h2 id="20181017">10/17</h2>
 
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[WEF競爭力報告：台灣排名13領先韓中 這項目亞洲第一](https://moptt.tw/p/Gossiping.M.1539734806.A.58E)|
+|  |  |[撐不下去了?兩艘滿載美國大豆貨船駛向中國](https://moptt.tw/p/Gossiping.M.1539698609.A.8F0)|
+|  |  |[李嘉誠早拋出全中國資產 謝金河讚：有超凡智慧的人](https://moptt.tw/p/Gossiping.M.1539688577.A.F24)|
+|  |  |[哈佛心臟病專家31篇論文全造假 醫學院賠償政府3億元](https://moptt.tw/p/Gossiping.M.1539680082.A.2F7)|
+|  |  |[敏感時機!美海軍科研船 現正停泊高雄港](https://moptt.tw/p/Gossiping.M.1539664146.A.95F)|
+|A2|國內新聞|  |
+|  |  |[國民年金負債破兆 320萬人保費恐漲](https://moptt.tw/p/Gossiping.M.1539730097.A.67C)|
+|  |  |[丁丁送「免費雞蛋糕」沒人排隊 鄉民：看了就沒食慾](https://moptt.tw/p/Gossiping.M.1539727326.A.18D)|
+|  |  |[國內首例！康寧大學申請改制專科學校](https://moptt.tw/p/Gossiping.M.1539695969.A.13B)|
+|  |  |[民進黨10多人退黨改挺韓國瑜 陳清茂：選人不選黨](https://moptt.tw/p/Gossiping.M.1539684533.A.10E)|
+|  |  |[「以核養綠」公投 法院裁准黃士修等人補件](https://moptt.tw/p/Gossiping.M.1539743038.A.78F)|
+|B企業|  |  |
+|  |  |[砸700億元，打造台灣DRAM製造中心對抗南韓！台最大外資美光如何抓住AI大商機？](https://www.bnext.com.tw/article/50930/dram-micron-samsung-nand?utm_source=line&utm_medium=message-3-3&utm_campaign=50930&utm_content=201810161817)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[清大研發口服胰島素成功](https://moptt.tw/p/Gossiping.M.1539737671.A.9F9)|
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[為什麼工作都做不完？拖垮你效率的 10 個壞習慣，請快戒掉](https://www.managertoday.com.tw/articles/view/56775?utm_source=line&utm_medium=message-2-1&utm_campaign=56775&utm_content=8%2F10%2F16-21%3A05)|
+|F表特|  |  |
+|  |  |[Elena Safavi](https://moptt.tw/p/Beauty.M.1539695594.A.6F9)|
 
+* * *
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[孟宏偉任內 濫用國際刑警紅色通報搶台嫌](https://moptt.tw/p/Gossiping.M.1539789359.A.185)|
+|  |  |[美國啓動退出萬國郵政聯盟程序](https://moptt.tw/p/Gossiping.M.1539787523.A.E8D)|
+|  |  |[世界第二國 加拿大大麻全面合法](https://moptt.tw/p/Gossiping.M.1539763076.A.172)|
+|  |  |[紐約25年來首個零槍擊周末 警局長：驕傲](https://moptt.tw/p/Gossiping.M.1539759374.A.F28)|
+|  |  |[生前最後7分鐘曝光！外媒：華郵異議記者遭肢解](https://moptt.tw/p/Gossiping.M.1539752584.A.DA9)|
+|A2|國內新聞|  |
+|  |  |[TVBS民調 韓國瑜支持度逆轉勝陳其邁7％](https://moptt.tw/p/Gossiping.M.1539786236.A.B3B)|
+|  |  |[F-22終於迎來大升級 美國空軍：可以用到2060年](https://moptt.tw/p/Gossiping.M.1539770428.A.F2D)|
+|  |  |[姚文智未成立實體競總？ 原來是被對手搶先租走了...](https://moptt.tw/p/Gossiping.M.1539755539.A.04E)|
+|  |  |[蘇貞昌也很注重選民素質](https://www.ptt.cc/bbs/joke/M.1539840506.A.E3F.html)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[台科大研發「發電玻璃」可望獲杜拜機場採](https://moptt.tw/p/Gossiping.M.1539774395.A.396)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+|  |  |[艾瑪華森爆深吻新歡！男友是「菁英高富帥](https://moptt.tw/p/Gossiping.M.1539765219.A.A8B)|
