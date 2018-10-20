@@ -5,7 +5,7 @@ suffermingdaily
 |--|--|--|--|--|--|--|
 |||[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)|<br>
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
-|[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|
+|[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
@@ -562,3 +562,38 @@ Daily model
 |F表特|  |  |
 
 * * *
+
+<h2 id="20181020">10/20</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[全球城市綜合實力排名 台北微升至第35名](https://moptt.tw/p/Gossiping.M.1539890673.A.7E0)|
+|  |  |[美前國防官員建議川普：廢除美中第3公報](https://moptt.tw/p/Gossiping.M.1539913217.A.E52)|
+|  |  |[西班牙聖家堂爆133年違建 4100萬美元罰款10年繳完](https://moptt.tw/p/Gossiping.M.1539915921.A.005)|
+|  |  |[沙國稱將軍聽錯命令錯殺《華郵》記者](https://moptt.tw/p/Gossiping.M.1539995555.A.26A)|
+|A2|國內新聞|  |
+|  |  |[期權大屠殺自救會衝撞金管會 泣訴慘賠千萬無人聞問](https://moptt.tw/p/Gossiping.M.1539919680.A.C78)|
+|  |  |[柯文哲選辦超狂 口號 「4 Taipei 4 the future」](https://moptt.tw/p/Gossiping.M.1539920378.A.193)|
+|  |  |[柯文哲接受彭博專訪：台灣在美中之間不過是架上商品](https://moptt.tw/p/Gossiping.M.1539909241.A.7FB)|
+|B企業|  |  |
+|  |  |[尷尬！郭董迎68歲生日 「股價慘剩68元」創7年新低](https://moptt.tw/p/Gossiping.M.1539918717.A.843)|
+|  |  |[Facebook進攻硬體野心大，要推一款結合通話、娛樂功能的機上盒](https://www.bnext.com.tw/article/50953/-facebook-is-building-a-camera-tv-set-top-box?utm_source=line&utm_medium=message-3-2&utm_campaign=50953&utm_content=201810171817)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[頭銜從不算是一種成就](https://www.businessweekly.com.tw/article.aspx?id=23970&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content)|
+|  |  |[放空或補眠都可以！每天花4小時做完這5件「超療癒」事項，讓你不再被工作綁死](https://www.businessweekly.com.tw/article.aspx?id=18218&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content)|
+|F表特|  |  |
+|  |  |[鄭婗](https://moptt.tw/p/Beauty.M.1539942917.A.A41)|
+|  |  |[淺川梨奈](https://moptt.tw/p/Beauty.M.1539955301.A.85D)|
+
+* * *
+ 
+<h2 id="20181021">10/21</h2>
+
