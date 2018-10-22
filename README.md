@@ -5,7 +5,9 @@ suffermingdaily
 |--|--|--|--|--|--|--|
 |||[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)|<br>
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
-|[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|
+|[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|<br>
+|[10/21](#20181021)|[10/22](#20181022)|
+
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
 > 讀報大綱：
@@ -597,3 +599,66 @@ Daily model
  
 <h2 id="20181021">10/21</h2>
 
+|版|次版|連結|
+|--|--|--|
+|A政治| | |
+|A1|國際新聞| | 
+|  |  |[【陸股全球第1慘】92兆市值沒了 3大金融監管動員救市](https://moptt.tw/p/Gossiping.M.1539943123.A.616)|
+|  |  |[劍指中國!東南亞國協決議明年與美在南海](https://moptt.tw/p/Gossiping.M.1539951579.A.269)|
+|  |  |[兩張光碟安裝還要100GB！R星力作《碧血狂殺2》上市預告釋出](https://moptt.tw/p/Gossiping.M.1539956477.A.44C)|
+|  |  |[他的器官不見了！魂斷埃及 英國男返國驗屍竟缺了腎和心](https://moptt.tw/p/Gossiping.M.1539956630.A.3D1)|
+|  |  |[中國崩壞！資金外逃GDP降至10年新低 經濟大失速](https://moptt.tw/p/Gossiping.M.1540008226.A.07E)|
+|  |  |[貴液體出爐！「以色列金蠍」毒液1公升要價3億](https://moptt.tw/p/Gossiping.M.1540040360.A.5A6)|
+|  |  |[反制中國軍力 川普擬退出《中程核子武力條約》](https://moptt.tw/p/Gossiping.M.1540041014.A.EFA)|
+|  |  |[YouTube 全球大當機 Pornhub 流量飆升 21% ！Fortnite、Minecraft、Pokemon 竟成站上熱門關鍵字](https://www.inside.com.tw/2018/10/18/youtube-outage)|
+|A2|國內新聞| |
+|  |  |[藍綠準備聯手讓違章工廠就地合法](https://moptt.tw/p/Gossiping.M.1540008569.A.77C)|
+|  |  |[柯文哲行動競選總部開幕 支持者擠滿北投七星公園](https://moptt.tw/p/Gossiping.M.1540032878.A.BEF)|
+|  |  |[普悠瑪翻車18死6人失聯 近200人受傷10人命危](https://tw.appledaily.com/new/realtime/20181021/1451572/【不斷更新】普悠瑪翻車17死)|
+|B企業| | | 
+|C科學| | |
+| |C1物理| |
+| |C2工程(硬)| |
+| |C3工程(軟)| | 
+| |C4生醫健康| |
+|D教育| | |
+|  |  |[台灣教育水準不輸日本，為何看不到跟日本一樣水準的電視節目？](https://www.storm.mg/lifestyle/263508?utm_source=line)|
+|  |  |[中山電機己心得分享](https://moptt.tw/p/graduate.M.1532541275.A.47C)|
+|E態度| | |
+|  |  |[研究證實一男一女要找到共同話題超難！](https://www.storm.mg/lifestyle/475996?utm_source=line)|
+|  |  |[賭神變股神，天才數學家從賭場學會的投資硬道理](https://wealth.businessweekly.com.tw/m/GArticle.aspx?id=ARTL000118410&utm_source=line&utm_medium=social&utm_content=wealth&utm_campaign=content)|
+|F表特| | |
+|  |  |[紫棋](https://moptt.tw/p/Beauty.M.1540082412.A.276)|
+
+* * *
+ 
+<h2 id="20181022">10/22</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[記者怎死的？沙國：他單挑15特務才被打死](https://moptt.tw/p/Gossiping.M.1540095493.A.465)|
+|  |  |[人命不值錢？解放軍手牽手 進地雷區用腳掃雷](https://moptt.tw/p/Gossiping.M.1540141249.A.742)|
+|A2|國內新聞|  |
+|  |  |[罰金為什麼不採財產比例受罰啊](https://moptt.tw/p/Gossiping.M.1540156853.A.C46)|
+|  |  |[普悠瑪出軌18死178傷 台鐵05：12搶通恢復單線雙向行車](https://moptt.tw/p/Gossiping.M.1540159201.A.244)|
+|  |  |[今日審查下修政府出資門檻 由現行50％降為20％！綠委擬擴大認定國營事業](https://moptt.tw/p/Gossiping.M.1540162986.A.736)|
+|  |  |[水煎包跟生煎包有什麼不同](https://moptt.tw/p/Gossiping.M.1540166264.A.FEE)|
+|B企業|  |  |
+|  |  |[超市變更競爭了？ 頂好收「東湖、明德、辛亥」3間店](https://moptt.tw/p/Gossiping.M.1540130500.A.A55)|
+|  |  |[超商為什麼賣鮮食？談產品的高頻帶低頻策略](https://www.bnext.com.tw/article/50917/7-11-7-eleven--familymart-fresh-food?utm_source=line&utm_medium=message-1-1&utm_campaign=50917&utm_content=201810212121)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[跳出舒適圈赴日留學 她4年拚出兩張頂級語言檢定](https://www.gvm.com.tw/article.html?id=54488&utm_source=Line&utm_medium=GV_post)|
+|F表特|  |  |
+|  |  |[來一波](https://moptt.tw/p/Beauty.M.1540167154.A.ECD)|
+
+* * *
+
+<h2 id="20181023">10/23</h2>
