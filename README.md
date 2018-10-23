@@ -6,7 +6,7 @@ suffermingdaily
 |||[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)|<br>
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
 |[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|<br>
-|[10/21](#20181021)|[10/22](#20181022)|
+|[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|
 
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
@@ -645,12 +645,15 @@ Daily model
 |  |  |[普悠瑪出軌18死178傷 台鐵05：12搶通恢復單線雙向行車](https://moptt.tw/p/Gossiping.M.1540159201.A.244)|
 |  |  |[今日審查下修政府出資門檻 由現行50％降為20％！綠委擬擴大認定國營事業](https://moptt.tw/p/Gossiping.M.1540162986.A.736)|
 |  |  |[水煎包跟生煎包有什麼不同](https://moptt.tw/p/Gossiping.M.1540166264.A.FEE)|
+|  |  |[顏清標宣布：我的女兒顏莉敏參選副議長](https://moptt.tw/p/Gossiping.M.1540177189.A.7A9?fbclid=IwAR1vEd2nXkDvKRUoVHk1m_H-5dstzX9RMLF3H_zDuNkpnDhvjkpJGDmwxYI)|
+|  |  |[普悠瑪為什麼會出軌翻車？](https://www.chinatimes.com/realtimenews/20181022002627-260405?fbclid=IwAR1wgify96PzYPYqCUr7H9yOv-hBwfoMFWLd3CyK1_2grGaf7OgnCXR4si0)|
 |B企業|  |  |
 |  |  |[超市變更競爭了？ 頂好收「東湖、明德、辛亥」3間店](https://moptt.tw/p/Gossiping.M.1540130500.A.A55)|
 |  |  |[超商為什麼賣鮮食？談產品的高頻帶低頻策略](https://www.bnext.com.tw/article/50917/7-11-7-eleven--familymart-fresh-food?utm_source=line&utm_medium=message-1-1&utm_campaign=50917&utm_content=201810212121)|
 |C科學|  |  |
 |  |C1物理|  |
 |  |C2工程(硬)|  |
+|  |  |[太空數據傳輸，研究：用重力波傳輸可行](https://moptt.tw/p/Gossiping.M.1540171738.A.359?fbclid=IwAR1EdBBLUHMI3BALiDhRCDcGqj5YFSrwrJs1wy-qVOTEwHqi6NDcEdlH15E)|
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
@@ -662,3 +665,37 @@ Daily model
 * * *
 
 <h2 id="20181023">10/23</h2>
+
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[不爽就退群 川普前科累累](https://moptt.tw/p/Gossiping.M.1540183200.A.121?fbclid=IwAR3pklxWGZ8jWx0oCl_GUUVxqZTQ-yiyI8hS7Qptk5FzrClWfDHXvC0ZyDE)|
+|  |  |[性別只有男女 川普政府擬去除跨性別官方定義](https://moptt.tw/p/Gossiping.M.1540200948.A.E99?fbclid=IwAR1rybzOq7BVZCWhN9e-32gelWFHMykzx9mwbd3XkFJLW-WJEoArQ3wEHTg)|
+|  |  |[蘇聯總統戈巴契夫：聯合國應制止美退出中導條約](https://moptt.tw/p/Gossiping.M.1540204259.A.CFF?fbclid=IwAR1Qi8SyJngpnDPDwKdDXxGMQBGYYElZLd4u9M8qHCx1KI4MvW4dT6R4F4M)|
+|  |  |[國防部主動公布 美2軍艦正通過台灣海峽](https://moptt.tw/p/Gossiping.M.1540216997.A.228?fbclid=IwAR0BLrIip851Ax6cbncRVTEXNTdPrAuR4QeVy5o-GQtubO3rZIHJOPxSK2A)|
+|  |  |[美公布通過台海軍艦艦名 中官媒：不能太生氣](https://moptt.tw/p/Gossiping.M.1540254901.A.DFF?fbclid=IwAR005m9SefaK0x0OG_py_Sxr6aqAIfNYzAAuTlPwhIygyC74yQcI2QKLxSs)|
+|  |  |[中共黨媒：不屑對美以牙還牙 評：已無牙](https://moptt.tw/p/Gossiping.M.1540256567.A.F9A?fbclid=IwAR04ynDsYBcz84KDGo8ANlJ57f2G-kXFVnLc8rlijVuIAdbqFuTzEwtjHTw)|
+|A2|國內新聞|  |
+|  |  |[齊柏林失事原因?飛安會透露:駕駛員服用抗](https://moptt.tw/p/Gossiping.M.1540178685.A.BDD?fbclid=IwAR37OwpwjeU6qbLphOwPUqueH3BrnfIzQTec8UQ8qwq5D9CRzNY4uyc2wzQ)|
+|  |  |[協助普悠瑪事故救災 柯P：有交代不要沒問人家就跑去](https://moptt.tw/p/Gossiping.M.1540179556.A.F4D?fbclid=IwAR2nlKXyRfY98LafMivHAZYQkJoH6yIemXOAjV5fX-bBFswSdQcQhphL7qU)|
+|  |  |[重砲批柯文哲 姚文智：一切都是假的](https://moptt.tw/p/Gossiping.M.1540197497.A.583?fbclid=IwAR2F_XY50dJtQBZsCciGyqC4fSAu2tXElSUX9l0F934pazDzCsUNXbyVzMw)|
+|  |  |[黃國昌 荒謬的《宗教基本法》草案](https://moptt.tw/p/Gossiping.M.1540197524.A.8B7?fbclid=IwAR1EdBBLUHMI3BALiDhRCDcGqj5YFSrwrJs1wy-qVOTEwHqi6NDcEdlH15E)|
+|  |  |[時速80飆升至140 普悠瑪司機員爆：儀表與實際車速不符](https://tw.appledaily.com/new/realtime/20181023/1452434/【不斷更新】ATP被關閉是真的！?fbclid=IwAR2Y_mHO0yAVG50xp37Xnxl6S_Ch6uPM_FtaQJySWYsdyOxlBny4SK2RAXk)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+|  |  |[漫祭「妖刀姬」](https://moptt.tw/p/Gossiping.M.1540202268.A.945?fbclid=IwAR35m_5rAZqRoWgciB9fUGzir8NH_ybPOeSDz5iSWnzpU4R-lzAfzchaC9M)|
+
+* * *
+
+<h2 id="20181024">10/24</h2>
+
+
