@@ -6,7 +6,7 @@ suffermingdaily
 |||[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)|<br>
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
 |[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|<br>
-|[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|
+|[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|[10/25](#20181025)|
 
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
@@ -698,4 +698,37 @@ Daily model
 
 <h2 id="20181024">10/24</h2>
 
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[港珠澳大橋通車給誰用？ 網友譏投資人哭暈在廁所](https://moptt.tw/p/Gossiping.M.1540264016.A.C22?fbclid=IwAR3ylT836n4dsilTV2TpyOas2fUsgaLzLwanoVicWcSIXo74Rvzxqa8uTzM)|
+|  |  |[「你玩不過我」川普放話強化核武俄願重談](https://moptt.tw/p/Gossiping.M.1540266062.A.CAD?fbclid=IwAR1_otNh7VoKPlRK3YilH00Ib7tt3vrX57BIQTND6ovqVSA3WReGKulEEcg)|
+|A2|國內新聞|  |
+|  |  |[批柯文哲的保證「不能信」！扁：他一定參選2020總統](https://moptt.tw/p/Gossiping.M.1540257742.A.E56?fbclid=IwAR2nlb7I9PxN8U7wmnsF9auFd-bWt7Epl8dPm-_i_vZDUacFse6RWxEqvD0)|
+|  |  |[國安單位：PTT竟成北京撕裂台灣的假新聞登陸堡壘](https://moptt.tw/p/Gossiping.M.1540260061.A.468?fbclid=IwAR3_Bo7jzVIHez8yR2joQUyb4rldzeJbcDAWHBPkexxGV64AHEiZh8z17_4)|
+|  |  |[委撤連署 民進黨團明甲動反對《宗教?](https://moptt.tw/p/Gossiping.M.1540268943.A.CA0?fbclid=IwAR0N2Bqiv92u6ppCP8nh4z7PT_omLIzECs376UECf2V4bT7TKkMeYLORuJk)|
+|  |  |[以核養綠逆轉勝定案編號第16！](https://moptt.tw/p/Gossiping.M.1540273166.A.6EA?fbclid=IwAR1mVT8UipYNB51aIhNcavxGEoZ8sM_LzjMjjC_Yz31xhhOMBfwaO2PNsCE)|
+|  |　|[Sway-宗教基本法可侵佔國土亂蓋建築](https://moptt.tw/p/Gossiping.M.1540278491.A.785?fbclid=IwAR11HZFd9p6-HVD2sB2lXxJHciadM7zhlK4kv688dq-JQt52e2vRqIkKQM4)|
+|  |  |[神隱7年！阿杜回歸 發福腫到粉絲認不出](https://moptt.tw/p/Gossiping.M.1540280757.A.51A?fbclid=IwAR2f4ZkN8SJdIzMJSa3_sYjGpaX9WruaOAIXm1yCpiXbQ7DBAhBm8lpS3B0)|
+|  |  |[博起哥高思博 轉職時間魔術師](https://moptt.tw/p/Gossiping.M.1540282526.A.5B4?fbclid=IwAR2NzY75CtUMdwiaJEk_zlKGqdbx6cLhfeBzQ9iS473TKkkdvHvPC3PlSkQ)|
+|B企業|  |  |
+|  |  |[當Facebook被年輕人拋棄，Instagram首登青少年最愛用社群平台](https://www.bnext.com.tw/article/51021/piper-jaffary-teens-survey-facebook-down-instagram-up?utm_source=line&utm_medium=message-3-1&utm_campaign=51021&utm_content=201810231817&fbclid=IwAR3SNj-Nn8RA3i9e_ePCa0MeDJj0MAZzQxMgrMqWQi61lW8YLnrNrYJT3nQ)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[是誰切的？ 南極赫見矩形大冰山](https://moptt.tw/p/Gossiping.M.1540277750.A.F99?fbclid=IwAR2IVqkC6HilOxaX5iZV-uVwdFCHk8y4kWKYx4We-0H_qfrgVOAn5ValndY)|
+|  |C2工程(硬)|  |
+|  |  |[馬斯克宣布「超級高鐵」12 月通車！搭一次 30 塊台幣](https://buzzorange.com/techorange/2018/10/23/boring-company-hyperloop-is-almost-done/?fbclid=IwAR1uoUWEuSTNbjPaaoYeQdCqukatjqHemda19ILWf-RRIsNBFziQO-3vtcg)|
+|  |C3工程(軟)|  |
+|  |  |[10 歲女童發明全球首款 AI 桌遊，還霸氣拒絕 Google、微軟 Offer：我喜歡當老闆](https://buzzorange.com/techorange/2018/10/23/10-years-old-girl-turn-down-google-offer/?fbclid=IwAR1anhZ0W43EhLFqqbl2ji0IayOuKDbXQf_hNngV3p1xzkyec9q69rzgdM8)|
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[拿掉工作，你的人生還剩什麼？]拿掉工作，你的人生還剩什麼？](https://www.businessweekly.com.tw/article.aspx?id=24062&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content&fbclid=IwAR2NzY75CtUMdwiaJEk_zlKGqdbx6cLhfeBzQ9iS473TKkkdvHvPC3PlSkQ)|
+|F表特|  |  |
+|  |  |[10歲德韓混血女童超美](https://moptt.tw/p/Gossiping.M.1540274720.A.7A0?fbclid=IwAR3_Bo7jzVIHez8yR2joQUyb4rldzeJbcDAWHBPkexxGV64AHEiZh8z17_4)|
+|  |  |[彩瑛的襪子](https://moptt.tw/p/Beauty.M.1540315864.A.9AD?fbclid=IwAR1anhZ0W43EhLFqqbl2ji0IayOuKDbXQf_hNngV3p1xzkyec9q69rzgdM8)|
 
+* * *
+
+<h2 id="20181025">10/25</h2>
