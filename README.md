@@ -724,7 +724,7 @@ Daily model
 |  |C4生醫健康|  |
 |D教育|  |  |
 |E態度|  |  |
-|  |  |[拿掉工作，你的人生還剩什麼？]拿掉工作，你的人生還剩什麼？](https://www.businessweekly.com.tw/article.aspx?id=24062&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content&fbclid=IwAR2NzY75CtUMdwiaJEk_zlKGqdbx6cLhfeBzQ9iS473TKkkdvHvPC3PlSkQ)|
+|  |  |[拿掉工作，你的人生還剩什麼？](https://www.businessweekly.com.tw/article.aspx?id=24062&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content&fbclid=IwAR2NzY75CtUMdwiaJEk_zlKGqdbx6cLhfeBzQ9iS473TKkkdvHvPC3PlSkQ)|
 |F表特|  |  |
 |  |  |[10歲德韓混血女童超美](https://moptt.tw/p/Gossiping.M.1540274720.A.7A0?fbclid=IwAR3_Bo7jzVIHez8yR2joQUyb4rldzeJbcDAWHBPkexxGV64AHEiZh8z17_4)|
 |  |  |[彩瑛的襪子](https://moptt.tw/p/Beauty.M.1540315864.A.9AD?fbclid=IwAR1anhZ0W43EhLFqqbl2ji0IayOuKDbXQf_hNngV3p1xzkyec9q69rzgdM8)|
