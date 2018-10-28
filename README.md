@@ -739,6 +739,37 @@ Daily model
 |--|--|--|
 |A政治|  |  |
 |A1|國際新聞|  |
+|  |  |[美股盤後─美股哀號！道瓊慘跌逾600點 科技股領跌僅消費股倖免](https://news.cnyes.com/news/id/4224803?utm_campaign=4224803&utm_medium=android&utm_source=App)|
+|  |  |[1注獨得495億元 美國兆彩連槓3個月剛開出頭獎！](https://moptt.tw/p/Gossiping.M.1540372728.A.C79?fbclid=IwAR3NS6mAULPKOHp-oENwFqqm5BLaXPeMpb4xCp_T3sznQI17cFM8xW5Wn04)|
+|  |  |[白宮：社會主義應丟入歷史的垃圾箱](https://moptt.tw/p/Gossiping.M.1540384923.A.EEE?fbclid=IwAR1dsfuQS-W_x3JiYOeyTp0QiaatMXZeh4g-fA4FU3OHk8NVIGr8a3hu58I)|
+|  |  |[表態哈紹吉謀殺案 沙國王儲：我將伸張正義](https://moptt.tw/p/Gossiping.M.1540435172.A.851?fbclid=IwAR1XhOiIcT5biiZfqgun6OQxSSC9rEtxMxcpU2FA39j0GmShwW4wcmzNAG8)|
+|A2|國內新聞|  |
+|  |  |[國安危機！對台2年內扶植親北京政權](https://moptt.tw/p/Gossiping.M.1540353234.A.2E9?fbclid=IwAR37m08heOZ8_XR8MiOQJd3q1g5yh-_5kU1hGKwF9Vj8RIn0WSOp5IOLS3E)|
+|  |  |[扯！台鐵ATP全有遠端監控 獨缺普悠瑪](https://moptt.tw/p/Gossiping.M.1540360052.A.F6E?fbclid=IwAR2tQiEnyBO7HD8QzciaUHbk7koTKc-3CAbWxtyTk1_NabyX2OJreg9TshA)|
+|  |  |[到底誰說謊？「關閉ATP」陷羅生門 3版本](https://moptt.tw/p/Gossiping.M.1540376747.A.3FD?fbclid=IwAR3_pqqeXxvxwu-zz8nJYlpuUBBTxzd6YqMNB5jPf6FL6AHOR6osvgI4JN0)|
+|  |  |[形容食物很「Q」 紐約時報：只有台灣才這樣說](https://moptt.tw/p/Gossiping.M.1540377976.A.AEA?fbclid=IwAR1dsfuQS-W_x3JiYOeyTp0QiaatMXZeh4g-fA4FU3OHk8NVIGr8a3hu58I)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[5 個小習慣，讓你紓壓放鬆、終結疲勞](https://www.managertoday.com.tw/articles/view/56773?utm_source=line&utm_medium=message-2-2&utm_campaign=56773&utm_content=8%2F10%2F17-21%3A05&fbclid=IwAR1XhOiIcT5biiZfqgun6OQxSSC9rEtxMxcpU2FA39j0GmShwW4wcmzNAG8)|
+|  |  |[AI專家已經不夠看，現在年薪最高的職業是這個](https://www.bnext.com.tw/article/51019/how-much-do-blockchain-engineers-mak?utm_source=line&utm_medium=message-3-1&utm_campaign=51019&utm_content=201810241217&fbclid=IwAR2tQiEnyBO7HD8QzciaUHbk7koTKc-3CAbWxtyTk1_NabyX2OJreg9TshA)|
+|F表特|  |  |
+|  |  |[Sayaka&Miru](https://moptt.tw/p/Beauty.M.1540400426.A.BBE?fbclid=IwAR255M0sn4NUeevo3q-DFdnMdTYmz8UtO0IBVZRU1zlvf1HZ_jrCKGvLFvw)|
+
+
+
+
+<h2 id="20181026">10/26</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
 |  |  |[央視記者孔琳琳正式遭英國警方起訴](https://moptt.tw/p/Gossiping.M.1540454585.A.694?fbclid=IwAR3zSQTlREnb0ZWjTDF_0Porb90s86eLuKBJ9AuJFSMbaXfV6IWV_zqstLg)|
 |  |  |[NBA騎士票價慘跌 不如一瓶礦泉水](https://www.ptt.cc/bbs/NBA/M.1540515783.A.3F5.html?fbclid=IwAR1iq2Xoh5EbqZvwnf0rlIqzHy8GAu1YXoLpapZKar3Me9q5kpsTiC7fK5U)|
 |  |  |[傳川普iPhone遭竊聽 中建議「可改用華為](https://moptt.tw/p/Gossiping.M.1540465353.A.E97?fbclid=IwAR0z8QQlUhlPsixI6ImIXDpmH-MfkzIh2mcWx1ruhjTK1EyuIhmIu5MQjyE)|
@@ -758,7 +789,7 @@ Daily model
 
 * * *
 
-<h2 id="20181026">10/26</h2>
+<h2 id="20181027">10/27</h2>
 
 |版|次版|連結|
 |--|--|--|
@@ -786,7 +817,8 @@ Daily model
 |  |  |[石川戀](https://moptt.tw/p/Beauty.M.1540556505.A.6DB?fbclid=IwAR02WUT-qgoTFlFc_5Ek-5Krs2kMTmHJyKbgXRWIovZUYAtGqR0nrhP1gU0)|
 
 * * *
-<h2 id="20181027">10/27</h2>
+<h2 id="20181028">10/28</h2>
+
 |版|次版|連結|
 |--|--|--|
 |A政治|  |  |
