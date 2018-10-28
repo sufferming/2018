@@ -6,7 +6,9 @@ suffermingdaily
 |||[10/2](#20181002)|[10/3](#20181003)|[10/4](#20181004)|[10/5](#20181005)|[10/6](#20181006)|<br>
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
 |[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|<br>
-|[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|[10/25](#20181025)|
+|[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|[10/25](#20181025)|[10/26](#20181026)|[10/27](#20181027)|<br>
+[10/28](#20181028)|
+
 
 
 newspaper / [發行人](https://www.facebook.com/sufferming) / [編輯](https://www.facebook.com/lich268)
@@ -732,3 +734,115 @@ Daily model
 * * *
 
 <h2 id="20181025">10/25</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[央視記者孔琳琳正式遭英國警方起訴](https://moptt.tw/p/Gossiping.M.1540454585.A.694?fbclid=IwAR3zSQTlREnb0ZWjTDF_0Porb90s86eLuKBJ9AuJFSMbaXfV6IWV_zqstLg)|
+|  |  |[NBA騎士票價慘跌 不如一瓶礦泉水](https://www.ptt.cc/bbs/NBA/M.1540515783.A.3F5.html?fbclid=IwAR1iq2Xoh5EbqZvwnf0rlIqzHy8GAu1YXoLpapZKar3Me9q5kpsTiC7fK5U)|
+|  |  |[傳川普iPhone遭竊聽 中建議「可改用華為](https://moptt.tw/p/Gossiping.M.1540465353.A.E97?fbclid=IwAR0z8QQlUhlPsixI6ImIXDpmH-MfkzIh2mcWx1ruhjTK1EyuIhmIu5MQjyE)|
+|A2|國內新聞|  |
+|  |  |[專家：強烈颱風玉兔已達「傳說等級」](https://moptt.tw/p/Gossiping.M.1540448442.A.AE7?fbclid=IwAR3nOVi1ogT6xMhrinWZudTjUl_eeC-Cwr1HIoV2ia1LyrR2lWQRc7Wkq5U)|
+|  |  |[高雄選戰最新民調 韓國瑜領先陳其邁6.3%](https://moptt.tw/p/Gossiping.M.1540455156.A.354?fbclid=IwAR0ZlFROzcsPF1e8YtAYgHZZ9MNJDm2_Vyw_tHVUJXNHISa1fB23TrC-eIQ)|
+|  |  |[檢驗韓國瑜「愛情摩天輪」政見 議員候選人超認真實測](https://moptt.tw/p/Gossiping.M.1540457502.A.19C?fbclid=IwAR2vPQNUNV_44a2AYugfauDE6lHZbLzKHLk5AUKfd8ijf3jsxj-I_-zFpXA)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+
+* * *
+
+<h2 id="20181026">10/26</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[超狂影片！美飛機迫降高速公路車主嚇傻連飆髒話](https://moptt.tw/p/Gossiping.M.1540540114.A.686?fbclid=IwAR3cAFL17xpzII3hbw0fBNgTzPFCJVUZvItgG8xTVTftRk1n4bjFVr8EhmY)|
+|  |  |[日本１名AV女優驗出愛滋 AV男優們心慌慌](https://moptt.tw/p/Gossiping.M.1540547063.A.96B?fbclid=IwAR2tDzklMx6sJPtJWuX-CYJt1Wuu-llMPIz6SsZW2m4UMwLdZhoOzLZL5Jw)|
+|A2|國內新聞|  |
+|  |  |[柯文哲點頭 台北市5候選人將參加公視辯論](https://moptt.tw/p/Gossiping.M.1540538780.A.737?fbclid=IwAR3fuXqem64Ch83UJxd4Bf5UywhzKRWsNW6x6H4SjN1ynCwpP-DWb3beITo)|
+|  |  |[行政院組普悠瑪調查小組 黃國昌爆：調查委員在台鐵包一堆標案](https://moptt.tw/p/Gossiping.M.1540544431.A.500?fbclid=IwAR1HBkn4EjijVG7fNpiXn7ZfkZOMqTeg_360Ui0TyvcEO8rnJf9pOZyqeKc)|
+|  |  |[柯營擺烏龍 選前之夜落空](https://moptt.tw/p/Gossiping.M.1540512643.A.547?fbclid=IwAR1HBkn4EjijVG7fNpiXn7ZfkZOMqTeg_360Ui0TyvcEO8rnJf9pOZyqeKc)|
+|  |  |[黃國昌再轟台鐵扯謊！普悠瑪有裝ATP監控系統但竟沒插線](https://moptt.tw/p/Gossiping.M.1540523006.A.960?fbclid=IwAR0O9JZb5KgRY6I7e2zTRVGaY4kmCtz2-tPw2jQmgb8-BKZfcXW3WeAAoo4)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[用最簡單的例子告訴你：什麼是量子電腦？](https://www.bnext.com.tw/article/51060/simply-tell-you-what-is-quantum-computer?utm_source=line&utm_medium=message-3-1&utm_campaign=51060&utm_content=201810261817&fbclid=IwAR2MHTknyOUwL9I2b0n6uzxJJbtGFgDzfCfaavxYetYKkL9A4TJeUKS-1Ig)|
+|  |C3工程(軟)|  |
+|  |  |[別再說手遊是威脅，看華碩ROG在東南亞的電競成功方程式](https://www.bnext.com.tw/article/51055/rog-asus-malaysia?utm_source=line&utm_medium=message-3-2&utm_campaign=51055&utm_content=201810261817&fbclid=IwAR25l4Iygl0RKMp3swa48R_FRpccpMDrn7dQhXhyQH8DdRmBv8ayK_EzANc)|
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[清朝進士有比應屆考上台大醫科難嗎?](https://moptt.tw/p/Gossiping.M.1540522536.A.7AF?fbclid=IwAR2d7h_umaZURWlARLFJPTzGRZENBy3kLelLLtOfM1-mMaQHtCJPUo6K6VQ)|
+|E態度|  |  |
+|F表特|  |  |
+|  |  |[石川戀](https://moptt.tw/p/Beauty.M.1540556505.A.6DB?fbclid=IwAR02WUT-qgoTFlFc_5Ek-5Krs2kMTmHJyKbgXRWIovZUYAtGqR0nrhP1gU0)|
+
+* * *
+<h2 id="20181027">10/27</h2>
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[比利時購買美F-35戰機 馬克宏：違背歐洲利益](https://moptt.tw/p/Gossiping.M.1540642457.A.BE0?fbclid=IwAR255M0sn4NUeevo3q-DFdnMdTYmz8UtO0IBVZRU1zlvf1HZ_jrCKGvLFvw)|
+|  |  |[更新／槍手衝進匹茲堡「猶太教堂」掃射 增至8死！傳槍手已投降](https://moptt.tw/p/Gossiping.M.1540658044.A.AA9?fbclid=IwAR0UPxlsXipXieQZu_awA5RxWX7JlKxVEVcI5KlLWb72eELpKboQUhZvyPY)|
+|  |  |[血洗匹茲堡10死6傷 川普嘆：如果教堂配槍](https://moptt.tw/p/Gossiping.M.1540671084.A.CDF?fbclid=IwAR1kvs7KPIkaXfMxcY9Bip3MnY8L51-w6OTpEsdEYzq46ZLkrviKYcMUrmI)|
+|A2|國內新聞|  |
+|  |  |[幹遇到大樹哥了](https://moptt.tw/p/Gossiping.M.1540642436.A.E9B?fbclid=IwAR3zSQTlREnb0ZWjTDF_0Porb90s86eLuKBJ9AuJFSMbaXfV6IWV_zqstLg)|
+|B企業|  |  |
+|  |  |[蘋果命名學知多少？官方終於解釋 XR 中「R」的意涵](https://www.inside.com.tw/2018/10/23/xr-meaning-none?fbclid=IwAR3wWSaSOiy74BJM1LXy_BL1bwj3HH4VxkaCr-WRT8qaKk-9EYggzIqgd-4)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[台大畢業只有35K 她高普考雙榜首拚高薪](https://moptt.tw/p/Gossiping.M.1540620654.A.F70?fbclid=IwAR2vPQNUNV_44a2AYugfauDE6lHZbLzKHLk5AUKfd8ijf3jsxj-I_-zFpXA)|
+|E態度|  |  |
+|  |  |[這 6 個徵兆，提醒你該為自己排個長假了](https://www.managertoday.com.tw/articles/view/53097?utm_source=line&utm_medium=message-2-2&utm_campaign=53097&utm_content=8%2F10%2F26-21%3A05&fbclid=IwAR3OxmZ1_tJW5gsV39lFjsVBjg-doorUuwowA-6mmjzmi0Wfk8bPQ6478oE)|
+|F表特|  |  |
+|  |  |[鄭家純](https://moptt.tw/p/Beauty.M.1540652141.A.434?fbclid=IwAR0UPxlsXipXieQZu_awA5RxWX7JlKxVEVcI5KlLWb72eELpKboQUhZvyPY)|
+
+* * *
+
+<h2 id="20181028">10/28</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|A2|國內新聞|  |
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+
+* * *
+<h2 id="20181028">10/28</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|A2|國內新聞|  |
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
