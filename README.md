@@ -7,7 +7,7 @@ suffermingdaily
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
 |[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|<br>
 |[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|[10/25](#20181025)|[10/26](#20181026)|[10/27](#20181027)|<br>
-[10/28](#20181028)|
+[10/28](#20181028)|[10/29](#20181029)|
 
 
 
@@ -878,3 +878,35 @@ Daily model
 |D教育|  |  |
 |E態度|  |  |
 |F表特|  |  |
+
+* * *
+<h2 id="20181029">10/29</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[巴西準總統友台又痛批中國 北京大驚失色不知所措](https://moptt.tw/p/Gossiping.M.1540693277.A.97B?fbclid=IwAR21DXFRx6KT_J8MmXCgm-jVv0b_jT-ynC-w4w99B2442Au-eHYWXalvOnM)|
+|A2|國內新聞|  |
+|  |  |[老婆陪韓國瑜睡一晚 邱議瑩坦承發言倉促](https://moptt.tw/p/Gossiping.M.1540728736.A.ED5?fbclid=IwAR3gZrKsRGEe_eep4akcN5sqn1mBWcs00-ciQL8iS54z2D4QsQS52rQUjm0)|
+|  |  |[確定他殺！ 成大女研究生口塞紅布頸部有勒痕](https://moptt.tw/p/Gossiping.M.1540744757.A.EC4?fbclid=IwAR228gO2W0t0Jo1ajdIodisFAlDurgvqg1-MRLP2BcCyddhgQgkitNeLOfA)|
+|  |  |[她求加拿大「30坪3房2廳」換10坪北市套](https://moptt.tw/p/Gossiping.M.1540771502.A.9DA?fbclid=IwAR1fzNvZSJLPBH5up0zZfXSGOwD26Q220thLoqEUN4wKuzCIRHOUu1DtAPI)|
+|B企業|  |  |
+|  |  |[提倡寫故事，貝佐斯禁止開會用PPT](https://www.bnext.com.tw/article/51020/amazon-use-memo-to-replace-ppt-in-meeting?utm_source=line&utm_medium=message-1-1&utm_campaign=51020&utm_content=201810271817&fbclid=IwAR2ySU-0iv6ccDmjwM5NOhAnIkoAXd6khb3V6A1GK83AyflXsY9-TncQzc8)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[特斯拉自駕「終極夢」讓車子自己出門載](https://moptt.tw/p/Gossiping.M.1540765513.A.F59?fbclid=IwAR16ASxmvKd-bjrYSwKL04HqweCnnKCCSUSZdGeN4uLHa1M3dANL8TqrHpw)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[努力就能成功？] (https://moptt.tw/p/Gossiping.M.1540767071.A.550?fbclid=IwAR3CH_u2xknKxq5QQEiAVJbyhVCfNk3aWVqCNAFdNKbypa7llkX_yUzz75E)|
+|E態度|  |  |
+|  |  |[台灣民族性導致的商業障礙](https://www.bnext.com.tw/article/51004/business-obstacle-consuming-habit?utm_source=line&utm_medium=message-1-1&utm_campaign=51004&utm_content=201810282117&fbclid=IwAR0R_MvNaobgNzUzODk_s99-GT5PKQq_sIzlVA9N33b9TEduT7WqawuZs-s)|
+|F表特|  |  |
+|  |  |[奈月セナ](https://moptt.tw/p/Gossiping.M.1540745058.A.447?fbclid=IwAR2Ud4k793B9LohHyIQqAAbnBIGngY9lXRcAE-OCZi1RCnsFtp5ASKOr0HA)|
+|  |  |[矢島舞美](https://moptt.tw/p/Beauty.M.1540725062.A.A7A?fbclid=IwAR3gZrKsRGEe_eep4akcN5sqn1mBWcs00-ciQL8iS54z2D4QsQS52rQUjm0)|
+
+* * *
+
+<h2 id="20181030">10/30</h2>
