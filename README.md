@@ -900,7 +900,7 @@ Daily model
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
-|  |  |[努力就能成功？] (https://moptt.tw/p/Gossiping.M.1540767071.A.550?fbclid=IwAR3CH_u2xknKxq5QQEiAVJbyhVCfNk3aWVqCNAFdNKbypa7llkX_yUzz75E)|
+|  |  |[努力就能成功？](https://moptt.tw/p/Gossiping.M.1540767071.A.550?fbclid=IwAR3CH_u2xknKxq5QQEiAVJbyhVCfNk3aWVqCNAFdNKbypa7llkX_yUzz75E)|
 |E態度|  |  |
 |  |  |[台灣民族性導致的商業障礙](https://www.bnext.com.tw/article/51004/business-obstacle-consuming-habit?utm_source=line&utm_medium=message-1-1&utm_campaign=51004&utm_content=201810282117&fbclid=IwAR0R_MvNaobgNzUzODk_s99-GT5PKQq_sIzlVA9N33b9TEduT7WqawuZs-s)|
 |F表特|  |  |
