@@ -7,7 +7,7 @@ suffermingdaily
 [10/7](#20181007)|[10/8](#20181008)|[10/9](#20181009)|[10/10](#20181010)|[10/11](#20181011)|[10/12](#20181012)|[10/13](#20181013)|<br>
 |[10/14](#20181014)|[10/15](#20181015)|[10/16](#20181016)|[10/17](#20181017)|[10/18](#20181018)|[10/19](#20181019)|[10/20](#20181020)|<br>
 |[10/21](#20181021)|[10/22](#20181022)|[10/23](#20181023)|[10/24](#20181024)|[10/25](#20181025)|[10/26](#20181026)|[10/27](#20181027)|<br>
-[10/28](#20181028)|[10/29](#20181029)|
+[10/28](#20181028)|[10/29](#20181029)|[10/30](#20181030)|[10/31](#20181031)|[11/1](#20181101)|[11/2](#20181102)|[11/3](#20181103)|
 
 
 
@@ -910,3 +910,123 @@ Daily model
 * * *
 
 <h2 id="20181030">10/30</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[馬雲被列中國套現王 阿里巴巴飆罵胡潤](https://moptt.tw/p/Gossiping.M.1540784910.A.FA7?fbclid=IwAR1ymYCtGrUD7kbf9gDDGMMcqDNPC2WU8xNepkSF6Ui2LZVrhOSSaOCKSms)|
+|  |  |[日本絢子公主今出嫁 「嫁妝」高達3千萬台幣](https://moptt.tw/p/Gossiping.M.1540799673.A.7B3?fbclid=IwAR34ahzG7lhzq8zDwp2K2BCUv8tyBdjdfm4pDScD8o1LByYyN2svGSSg8HE)|
+|  |  |[巴西變天 新總統誓言結交美國 反對中共](https://moptt.tw/p/Gossiping.M.1540812741.A.E1B?fbclid=IwAR2Jdb4fDgAVKiHoS_qdw8G1mY_qePT33RZlFPbIttDyPJrdCLRrYlV9RZU)|
+|  |  |[印度唯一航母「超日王號」重返大海](https://moptt.tw/p/Gossiping.M.1540820308.A.7D5?fbclid=IwAR0bW00CxF9c-IKJCqimmluv65Q_SBfBQRkf0BAVr97817sB26KAaCrwaJo)|
+|  |  |[考古學家發現神祕「冥界通道」 就在活人獻祭的廣場地底](https://moptt.tw/p/Gossiping.M.1540823308.A.528?fbclid=IwAR0PLp6SHYmmhtqhvwIBbadASbAUHQnFJNW9vyfIhu491MhU03frQv39-Mo)|
+|  |  |[習近平晚宴表情突變 安倍安慰「川普信任你」](https://moptt.tw/p/Gossiping.M.1540826836.A.07D?fbclid=IwAR1PpkNZvJoH8pFiw4Bm_pq5dp7RLlQccl3OzWADfVSQfFLLloreBLlNLcw)|
+|  |  |[萬聖節「超廢超生活」 網：看到用生命在笑](https://moptt.tw/p/Gossiping.M.1540863028.A.519?fbclid=IwAR0Po2I1zJtCmmHLjKKfWL2rD9fD64_-pWYb1qwmubbTZh2SXfWNHXiVxso)|
+|A2|國內新聞|  |
+|  |  |[邱議瑩直接說了「韓國瑜要跟你老婆睡一晚」](https://moptt.tw/p/Gossiping.M.1540804333.A.DC2?fbclid=IwAR1ROicnCb-0ng6fEj7mMDX-CY9rNnjqCO7kHUxjnKb0awO-rARiCwqYKBA)|
+|  |  |[聲援婦聯會挨罵 柯臉書首度致歉:錯誤援例](https://moptt.tw/p/Gossiping.M.1540808391.A.E53?fbclid=IwAR2Iz1mp17LWCicpJmOnLdBMcLU2vBASzEinT5vYLCgs-l43lGUl6VgS01M)|
+|  |  |[侯大幅領先蘇21.9個百分點](https://moptt.tw/p/Gossiping.M.1540857390.A.E43?fbclid=IwAR051Drpy9krEi6fWgsgF1LTb_-rheu8ICLAt-6xdrVT6PMekbWm45A7u5Y)|
+|B企業|  |  |
+|  |  |[坐穩台灣連鎖藥妝龍頭，那些屈臣氏背後你沒看到的事](https://www.bnext.com.tw/article/51069/how-watsons-taiwan-do-in-new-retail-era?utm_source=line&utm_medium=message-3-1&utm_campaign=51069&utm_content=201810291817&fbclid=IwAR1_X5ZGPEK48bO0_9Y9WXGMwyRniUBmkASaZI5P6Oxfu1IhZDswwxaYn3g)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[一個韓國留學生告白：羨慕台灣人失業可以去賣雞排，韓國連賣泡菜的機會都沒有](https://www.businessweekly.com.tw/article.aspx?id=16249&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content&fbclid=IwAR051Drpy9krEi6fWgsgF1LTb_-rheu8ICLAt-6xdrVT6PMekbWm45A7u5Y)|
+|  |  |[支持理想青年開咖啡店，叫慈善；買一棟樓租給星巴克，才叫投資](https://www.businessweekly.com.tw/article.aspx?id=15212&type=Blog&utm_source=Line&utm_medium=social&utm_content=bw&utm_campaign=content&fbclid=IwAR1ROicnCb-0ng6fEj7mMDX-CY9rNnjqCO7kHUxjnKb0awO-rARiCwqYKBA)|
+|F表特|  |  |
+|  |  |[Taeyeon](https://moptt.tw/p/Beauty.M.1540827465.A.798?fbclid=IwAR0t4f2FHTEAZVEfynoWC9oQAbD4QUvXKT9QAbSyoZzgprkojo2ZN-Qzzmo)|
+
+* * *
+
+<h2 id="20181031">10/31</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[2020年拔刀再戰？ 希拉蕊首度表態：我想成為總統](https://moptt.tw/p/Gossiping.M.1540870261.A.812?fbclid=IwAR1ROicnCb-0ng6fEj7mMDX-CY9rNnjqCO7kHUxjnKb0awO-rARiCwqYKBA)|
+|  |  |[南極罕見爆發謀殺案科學家被劇透怒砍同事](https://moptt.tw/p/Gossiping.M.1540900498.A.2E3?fbclid=IwAR3A6TUDAdy7ZqvEip0-txMWwKEbJ3M8i2hOQxhYxolNHXCmx-VJ3vwaxcE)|
+|  |  |[到美國生「美寶」？ 川普不爽 打算終結「出生公民權」](https://moptt.tw/p/Gossiping.M.1540902768.A.8E4?fbclid=IwAR1ROicnCb-0ng6fEj7mMDX-CY9rNnjqCO7kHUxjnKb0awO-rARiCwqYKBA)|
+|A2|國內新聞|  |
+|  |  |[「普悠瑪是哪國產品？」 交長一秒就被黃國昌問倒](https://moptt.tw/p/Gossiping.M.1540872839.A.55F?fbclid=IwAR2svRUnEcJ68Tw_9WKptEvhPDzvzZV3vp-SN3F7pvKLdkTkK9aZsAvB7eU)|
+|  |  |[助選唱名獨漏高思博 馬尷尬問「你貴姓」？](https://moptt.tw/p/Gossiping.M.1540884067.A.D53?fbclid=IwAR2Avp3_t4ppAQZ4PYeWNc52mTHR_ziuRQ2SttRRXrGbxqyCpJEoTFpephg)|
+|  |  |[台大研究助理月薪75K係金ㄟ 網暴動！比助理教授還高](https://moptt.tw/p/Gossiping.M.1540893933.A.BEF?fbclid=IwAR0JAjthSmUPBNSHoG2bM5f7_L7ESTAtMNLhjuE8XtavG_kKB6jcTRXtyjU)|
+|  |  |[台北市長辯論11/10登場 不開放公民提問](https://moptt.tw/p/Gossiping.M.1540910214.A.67F?fbclid=IwAR2fSYDuE0L-pGizWk-414g_1eMs-OJz8NRcKO6L-WnQ2KG-QDxk0KFgnOI)|
+|B企業|  |  |
+|  |  |[第一款區塊鏈手機即將問世 宏達電可以靠「它」翻身嗎？](https://www.cmmedia.com.tw/home/articles/12447?fbclid=IwAR0JAjthSmUPBNSHoG2bM5f7_L7ESTAtMNLhjuE8XtavG_kKB6jcTRXtyjU#utm_source=LINE)|
+|  |  |[RTX2080Ti 產生災情](https://moptt.tw/p/PC_Shopping.M.1540950352.A.0B1?fbclid=IwAR1_X5ZGPEK48bO0_9Y9WXGMwyRniUBmkASaZI5P6Oxfu1IhZDswwxaYn3g)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|  |  |[早上起不來、晚上睡不好？11 個讓你夜夜安眠的生活習慣](https://www.managertoday.com.tw/articles/view/56828?utm_source=line&utm_medium=message-2-2&utm_campaign=56828&utm_content=8%2F10%2F29-21%3A05&fbclid=IwAR0t8dd_wYtVGDZ2IXPpn725eZy7r3oP8-R2nuPpZTYjnm9gP7ubm4qzHIs)|
+|  |  |[只有魯蛇才覺得矽谷能「養老」，華人工程師是如何被印度工程師彎道超車？](https://buzzorange.com/techorange/2018/10/26/silicon-valley-chinese-engineer/?fbclid=IwAR2svRUnEcJ68Tw_9WKptEvhPDzvzZV3vp-SN3F7pvKLdkTkK9aZsAvB7eU)|
+|F表特|  |  |
+|  |  |[宮協咲良](https://moptt.tw/p/Beauty.M.1540907721.A.833?fbclid=IwAR1Pn1kpV_pZKWkrOCwKvy2DVbYJLWSGEZztVrH4Sddn-JGa8ynolwAVZew)|
+* * *
+
+<h2 id="20181101">11/1</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[在日本居留外國人達263萬 中國74萬人最多](https://moptt.tw/p/Gossiping.M.1540970572.A.A44?fbclid=IwAR34ahzG7lhzq8zDwp2K2BCUv8tyBdjdfm4pDScD8o1LByYyN2svGSSg8HE)|
+|  |  |[美大批民眾帶槍抵邊境 助軍隊堵截非法移民](https://moptt.tw/p/Gossiping.M.1540997764.A.057?fbclid=IwAR0avDf6xy711Zb9BVzakfdwK4Or0uHV8xVAAMdD2DX6uhfIjz75OEHRj_o)|
+|A2|國內新聞|  |
+|  |  |[高雄北漂 62.7 萬人, 22.64% 離鄉背井](https://moptt.tw/p/Gossiping.M.1540954698.A.76E?fbclid=IwAR1-wOMIHLIWNgkxasQORgbIc_y2r8HfpROHp1Txp4fvqFibo2O0r07Hbcw)|
+|  |  |[馬英九出庭火力全開 控姚文智恐嚇中時不得買三中](https://moptt.tw/p/Gossiping.M.1540961583.A.50E?fbclid=IwAR1N68-omHFYEZNY6Q4DMJrdjJmCDaC7uZ0F3UdFNz7pIOCuYR6NaWMk1xQ)|
+|  |  |[反對修法打假新聞 唐鳳:政府自己不要造謠](https://moptt.tw/p/Gossiping.M.1540962011.A.A3C?fbclid=IwAR1N68-omHFYEZNY6Q4DMJrdjJmCDaC7uZ0F3UdFNz7pIOCuYR6NaWMk1xQ)|
+|  |  |[真是省著用！柯Ｐ競選3個月只花1513萬 只佔預算1/4](https://moptt.tw/p/Gossiping.M.1540972732.A.F31?fbclid=IwAR05tX9gUC_rFPeijctlH08wR_JCmWIqH_NU5VBydZJKN3g8CPze4EzwBMI)|
+|  |  |[台灣免簽再多一國 外交部:烏拉圭免簽可停留90天](https://moptt.tw/p/Gossiping.M.1540996391.A.80C?fbclid=IwAR0nUUIt14XU3uGq0ZkT6086SuY8HXhfJhW-nr73-rmp2WxAq6t1FmRwPdY)|
+|  |  |[寶可夢行銷台南估3億入袋 「比陸客還有用！」](https://moptt.tw/p/Gossiping.M.1541025911.A.197?fbclid=IwAR3A6TUDAdy7ZqvEip0-txMWwKEbJ3M8i2hOQxhYxolNHXCmx-VJ3vwaxcE)|
+|B企業|  |  |
+|  |  |[Switch沒新遊戲 任天堂上季獲利增30％仍不如預期](https://moptt.tw/p/Gossiping.M.1540949046.A.428?fbclid=IwAR2sFAC6Od1yQk3mdu2Q4ougKspucB-2SdBq5eG0k9T_eMYy8eHHLbMSN3c)|
+|  |  |[宏達電健康醫療DeepQ演算法 頂級AI會議錄取](https://tw.finance.appledaily.com/realtime/20181101/1458204?fbclid=IwAR1ROicnCb-0ng6fEj7mMDX-CY9rNnjqCO7kHUxjnKb0awO-rARiCwqYKBA)|
+|  |  |[iPad Pro擁抱機器學習](https://www.eettaiwan.com/news/article/20181030NT01-A12X-iPad-Pro-Jump-Into-Machine-Learning?fbclid=IwAR2fSYDuE0L-pGizWk-414g_1eMs-OJz8NRcKO6L-WnQ2KG-QDxk0KFgnOI)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E態度|  |  |
+|F表特|  |  |
+* * *
+
+<h2 id="20181102">11/2</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[士兵遺體手機突響…敵軍接起：抱歉，你兒子死了](https://moptt.tw/p/Gossiping.M.1541119497.A.E12?fbclid=IwAR2sFAC6Od1yQk3mdu2Q4ougKspucB-2SdBq5eG0k9T_eMYy8eHHLbMSN3c)|
+|A2|國內新聞|  |
+|  |  |[盧秀燕稱青年北漂 林佳龍：很多都漂回來了](https://moptt.tw/p/Gossiping.M.1541034096.A.996?fbclid=IwAR0avDf6xy711Zb9BVzakfdwK4Or0uHV8xVAAMdD2DX6uhfIjz75OEHRj_o)|
+|  |  |[台灣人超愛講「不好意思」？](https://moptt.tw/p/Gossiping.M.1541040161.A.9BD?fbclid=IwAR1_X5ZGPEK48bO0_9Y9WXGMwyRniUBmkASaZI5P6Oxfu1IhZDswwxaYn3g)|
+|  |  |[20萬人今湧入台南抓寶 《Pokémon GO》攻略懶人包看這篇](https://moptt.tw/p/Gossiping.M.1541042154.A.996?fbclid=IwAR01brIIVKCBpqGiuJTIwkq8DoD__gZ5fDSnT4fgZtTDmb5pvUva60uCuog)|
+|  |  |[清德稱「找退休司機雙駕」 台鐵員工怒：頭殼壞掉！](https://moptt.tw/p/Gossiping.M.1541044304.A.71F?fbclid=IwAR2anqMCbexHAEbkm9j2df1Jd-tiOJbxEo7QBCywAwfEOGVER3dftmimRTQ)|
+|  |  |[以核養綠辯論會黃國昌11/16登場確定](https://moptt.tw/p/Gossiping.M.1541059041.A.02F?fbclid=IwAR34ahzG7lhzq8zDwp2K2BCUv8tyBdjdfm4pDScD8o1LByYyN2svGSSg8HE)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[NVIDIA深耕台灣醫療，中國醫藥部署亞洲醫院首台DGX-2超級電腦](https://www.bnext.com.tw/article/51118/nvidia-dgx2-medical-cancer?utm_source=line&utm_medium=message-3-2&utm_campaign=51118&utm_content=201811011217&fbclid=IwAR1ixu1YZc8X5mOnEt2CvQZI6w6EFkxRCt1yd6QtPHmfXxgWd8aXnVnm5YU)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[逃到印度叢林躲學貸！畢業生欠債61萬](https://www.ptt.cc/bbs/Gossiping/M.1541077549.A.1AA.html?fbclid=IwAR1ixu1YZc8X5mOnEt2CvQZI6w6EFkxRCt1yd6QtPHmfXxgWd8aXnVnm5YU)|
+|E態度|  |  |
+|F表特|  |  |
+
+* * *
+
+<h2 id="20181103">11/3</h2>
+
